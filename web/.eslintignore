@@ -1,0 +1,6 @@
+/build/
+/config/
+/dist/
+/*.js
+/src/utils/pnw.js
+/test/unit/coverage/
